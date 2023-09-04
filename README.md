@@ -221,9 +221,6 @@ First thing I want to do is check how many unique vendor IDs are there? The data
 ~~~~sql
 SELECT vendor_id, COUNT(*) AS num FROM taxi_data
 GROUP BY vendor_id
-
-SELECT * FROM taxi_data
-WHERE vendor_id IS NULL
 ~~~~
 
 | vendor_id | num      |
