@@ -18,7 +18,8 @@ The original source also contains data for yellow taxis, which may be interestin
 
 In NYC there are two main types of taxis distinguished by their color and they are yellow and green taxis. Yellow taxis are your traditional taxis and are allowed to pick up passengers in all 5 boroughs. Green taxis were introduced in 2013 with the purpose of helping improve the availability of taxis in the NYC boroughs. They are allowed to pick up passengers above 110 St/E 96th St in Manhattan and in the remaining boroughs. Here is the map below, any area indicated by green is where yellow and green taxis can hail passengers. The yellow area indicates an area that only yellow taxis can pick up passengers.
 
-![Boro-Taxi-4](https://github.com/Tyler-Wilson-326/NYC-Taxi-Trips/assets/141818698/9c75bebd-686e-46a1-907b-2f6101b7fc71)
+![Boro-Taxi-4](https://github.com/Tyler-Wilson-326/NYC-Taxi-Cab/assets/141818698/a53c399d-bea1-481c-a3e4-c2b182547a16)
+
 [Source](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 # Part 0 Data Cleaning and Transformation:
